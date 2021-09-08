@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cedric Schmidt - Lebenslauf
 ---
-# Isaac Newton
+# Cedric Schmidt
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
